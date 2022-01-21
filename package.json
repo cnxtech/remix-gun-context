@@ -1,0 +1,9 @@
+{
+  "name": "RemiGunCtx",
+  "version": "1.0.0",
+  "description": "Remix/Express server adapter using gun.js api",
+  "main": "index.js",
+  "author": "Bresnow",
+  "license": "MIT",
+  "private": true
+}
